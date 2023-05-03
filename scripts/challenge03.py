@@ -1,4 +1,4 @@
-num1 = input ('First number: ')
-num2 = input ('Second number: ')
-result = int(num1) + int(num2)
-print ('The sum of ' , num1 , ' and ' , num2 , ' is equal to ' , result , '!')
+num1 = int(input('First number: '))
+num2 = int(input('Second number: '))
+result = num1 + num2
+print('The sum of ' , num1 , ' and ' , num2 , ' is equal to {}!'.format(result))

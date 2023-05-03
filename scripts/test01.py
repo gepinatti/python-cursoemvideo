@@ -1,4 +1,4 @@
-nome = input ('Qual é o seu nome? ')
-idade = input ('Qual é sua idade? ')
-peso = input ('Quanto você pesa? ')
-print (nome, idade, peso)
+name = input('What is your name? ')
+age = input('What is your age? ')
+weight = input('What is your weight? ')
+print(name, age, weight)

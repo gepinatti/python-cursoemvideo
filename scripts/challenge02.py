@@ -1,4 +1,4 @@
-dia = input ('Qual o dia do seu nascimento? ')
-mes = input ('Qual o mês do seu nascimento? ')
-ano = input ('Qual o ano do seu nascimento? ')
-print (dia , '/' , mes , '/' , ano)
+month = input ('What is your birthday month? ')
+day = input ('What is your birthday? ')
+year = input ('What is your birthday year? ')
+print (month+'/'+day+'/'+year)

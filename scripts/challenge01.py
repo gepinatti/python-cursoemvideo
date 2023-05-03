@@ -1,2 +1,2 @@
-nome = input ('Qual é seu nome?')
-print ('Boas vindas, ' + nome + '!')
+name = input ('What is your name?')
+print ('Welcome, ' + name + '!')
